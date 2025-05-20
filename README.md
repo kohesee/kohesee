@@ -1,16 +1,10 @@
 <h2 align="left">👋🏻 Hello! I'm Kaivalya.</h2>
-
-###
-
 <div align="center">
-  <img height="100" src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif"  />
+  <img height="120" src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaivalyaBeohar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&custom_title=Kaivalya's%20GitHub%20Stats:" height="159" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaivalyaBeohar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&custom_title=Most%20Used%20Languages:" height="159" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaivalyaBeohar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&border_color=99cc00&border_radius=12&custom_title=Kaivalya's%20GitHub%20Stats:" height="159" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaivalyaBeohar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&border_color=99cc00&border_radius=9&custom_title=Most%20Used%20Languages:" height="159" alt="languages graph"  />
 </div>
 
 ###
@@ -50,8 +44,8 @@
   </a>
   <a href="https://x.com/kohese" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="53" height="40" alt="twitter logo"  />
-  </a href="https://www.paypal.me/PayVeki" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="53" height="40" alt="paypal logo"  />
+  </a>
+  <a href="https://www.paypal.me/PayVeki" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="53" height="40" alt="paypal logo"  />
+  </a>
 </div>
-
-###
