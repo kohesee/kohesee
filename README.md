@@ -46,15 +46,27 @@
 
 <div align="center">
   <a href="mailto:kaivalya.beohar@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/kaivalya-beohar/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"/>
   </a>
   <a href="https://x.com/kohese">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="50" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="50" alt="twitter logo"/>
   </a>
   <a href="https://www.paypal.me/PayVeki">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="60" height="50" alt="paypal logo"  />
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" 
+      width="60" 
+      height="50" 
+      alt="paypal logo"/>
   </a>
+  <a href="https://withupi.com/@kohese" >
+  <img 
+    src="https://withupi.com/apple-icon-180x180.png" 
+    width="50" 
+    height="50"
+    alt="with upi"
+  />
+</a>
 </div>
